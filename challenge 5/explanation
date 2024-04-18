@@ -1,0 +1,1 @@
+This code listens for messages on the serial port. When it receives a message, it checks each character. If it's a letter, it decodes it using a Caesar Cipher with a shift of 3 positions. After decoding, it sends the character back through the serial port.
