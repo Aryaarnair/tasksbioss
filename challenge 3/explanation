@@ -1,0 +1,2 @@
+I have done this task by the help of resources the club gave .
+In this simulation Arduino is used to receive value or characters or strings from serial monitor and transfer it to the next Arduino using RX TX pin . this is then printed into the lcd with help of LiquidCrystal library file into the LCD panel .
